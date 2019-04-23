@@ -24,6 +24,8 @@ MRuby::Build.new do |conf|
 
   # include the default GEMs
   conf.gembox 'default'
+
+  conf.gem :github => "u2/mruby-merkle-verify"
   # C compiler settings
   # conf.cc do |cc|
   #   cc.command = ENV['CC'] || 'gcc'
