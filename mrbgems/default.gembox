@@ -88,4 +88,14 @@ MRuby::GemBox.new do |conf|
 
   # Use mruby-compiler to build other mrbgems
   conf.gem :core => "mruby-compiler"
+
+  conf.gem :github => "chasonr/mruby-bignum"
+
+  conf.gem :github => "u2/mruby-sha3"
+
+  conf.gem :core => "mruby-abi"
+
+  conf.gem :core => "mruby-rlp"
+
+  conf.gem :core => "mruby-receipt"  
 end

@@ -1,0 +1,9 @@
+[submodule "mrbgems/mruby-rlp"]
+	path = mrbgems/mruby-rlp
+	url = git@github.com:u2/mruby-rlp
+[submodule "mrbgems/mruby-abi"]
+	path = mrbgems/mruby-abi
+	url = git@github.com:u2/mruby-abi
+[submodule "mrbgems/mruby-receipt"]
+	path = mrbgems/mruby-receipt
+	url = git@github.com:u2/mruby-receipt
